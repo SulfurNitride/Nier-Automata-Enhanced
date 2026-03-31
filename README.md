@@ -6,6 +6,8 @@ This is a simple modlist designed to enhance the gameplay of Nier Automata via g
 
 If you need more help or have any questions please join the [NaK Discord](https://discord.gg/9JWQzSeUWt)
 
+This modlist is based off this [Nexus Post](https://www.nexusmods.com/nierautomata/mods/29), it was not designed with MO2 in mind so I have made changes accordingly. As well as adding a few fixes of my own and a few mods.
+
 # Requirements
 
 The latest version of [NieR:Automata™ Game of the YoRHa Edition](https://store.steampowered.com/app/524220/NieRAutomata/) from steam. 
