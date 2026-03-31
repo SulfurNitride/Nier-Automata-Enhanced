@@ -1,5 +1,4 @@
-![2560x1600-Wallpaper-2](https://user-images.githubusercontent.com/assets/7ba2d7b2-1637-4f4b-a279-80ef4dae5c94)
-
+![2560x1600-Wallpaper-2](https://github.com/user-attachments/assets/3c910fd1-2c28-427e-b9b1-47c6c69c7f0e)
 
 # Nier-Automata-Enhanced
 
