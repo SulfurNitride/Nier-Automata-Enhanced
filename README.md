@@ -1,4 +1,4 @@
-![2560x1600-Wallpaper-2](https://github.com/user-attachments/assets/3c910fd1-2c28-427e-b9b1-47c6c69c7f0e)
+![alt text](https://github.com/SulfurNitride/Nier-Automata-Enhanced/blob/main/image.jpg)
 
 # Nier-Automata-Enhanced
 
@@ -39,3 +39,4 @@ Before starting the install ensure you have done the following:
 
 # Common Issues
 As of right now I know of only one issue. Upon launching the game for the first time when you install the modlist the game will not open. To fix this go to task manager and end task for Nier Automata, afterwards if you press play again the game should open.
+](https://github.com/SulfurNitride/Nier-Automata-Enhanced/blob/main/image.jpg)
