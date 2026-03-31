@@ -1,1 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Nier Automata Enhanced",
+    "description": "This is a simple modlist designed to enhance the gameplay of Nier Automata via graphics.",
+    "author": "Sulfur Nitride",
+    "maintainers": [
+      "github/SulfurNitride"
+    ],
+    "game": "nierautomata",
+    "tags": [
+      "SFW",
+      "Steam"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/SulfurNitride/Nier-Automata-Enhanced/blob/main/image.jpg",
+      "readme": "https://github.com/SulfurNitride/Nier-Automata-Enhanced/blob/main/README.md",
+      "download": "https://build.wabbajack.org/authored_files/download/Nier%20Enhanced.wabbajack_bbe12eee-2a70-4030-8f7a-7d7341150d7b",
+      "machineURL": "Nier-Automata-Enhanced",
+      "discordURL": "https://discord.gg/9JWQzSeUWt"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "FLmiBlxOQqs=",
+      "Size": 4889423,
+      "NumberOfArchives": 28,
+      "SizeOfArchives": 29934658161,
+      "NumberOfInstalledFiles": 5372,
+      "SizeOfInstalledFiles": 33580338170
+    },
+    "version": "1.0.0"
+  }
+]
 
