@@ -17,7 +17,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/SulfurNitride/Nier-Automata-Enhanced/blob/main/image.jpg",
+      "image": "https://raw.githubusercontent.com/SulfurNitride/Nier-Automata-Enhanced/main/image.jpg",
       "readme": "https://github.com/SulfurNitride/Nier-Automata-Enhanced/blob/main/README.md",
       "download": "https://build.wabbajack.org/authored_files/download/Nier%20Enhanced.wabbajack_bbe12eee-2a70-4030-8f7a-7d7341150d7b",
       "machineURL": "Nier-Automata-Enhanced",
