@@ -1,38 +1,43 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Nier Automata Enhanced",
     "description": "This is a simple modlist designed to enhance the gameplay of Nier Automata via graphics.",
     "author": "Sulfur Nitride",
     "maintainers": [
       "github/SulfurNitride"
     ],
-    "game": "NieRAutomata",
+    "game": "nierautomata",
+    "official": false,
     "tags": [
       "SFW",
       "Steam"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/SulfurNitride/Nier-Automata-Enhanced/main/image.jpg",
       "readme": "https://github.com/SulfurNitride/Nier-Automata-Enhanced/blob/main/README.md",
-      "download": "https://build.wabbajack.org/authored_files/download/Nier%20Enhanced.wabbajack_bbe12eee-2a70-4030-8f7a-7d7341150d7b",
+      "download": "https://authored-files.wabbajack.org/Nier Enhanced.wabbajack_04542550-b7f8-4c75-b427-2d700113e775",
       "machineURL": "Nier-Automata-Enhanced",
-      "discordURL": "https://discord.gg/9JWQzSeUWt"
+      "discordURL": "https://discord.gg/9JWQzSeUWt",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "FLmiBlxOQqs=",
-      "Size": 4889423,
-      "NumberOfArchives": 28,
-      "SizeOfArchives": 29934658161,
-      "NumberOfInstalledFiles": 5372,
-      "SizeOfInstalledFiles": 33580338170
+      "Hash": "hl6h2T6ABGY=",
+      "Size": 4893045,
+      "NumberOfArchives": 30,
+      "SizeOfArchives": 29935001035,
+      "NumberOfInstalledFiles": 5378,
+      "SizeOfInstalledFiles": 33590304764,
+      "TotalSize": 63525305799
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-04-01T21:03:50.4987931Z",
+    "repositoryName": ""
   }
 ]
-
