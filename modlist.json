@@ -24,7 +24,12 @@
       "machineURL": "Nier-Automata-Enhanced",
       "discordURL": "https://discord.gg/9JWQzSeUWt",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "431681",
+        "slug": "mo2irc",
+        "domainName": "nierautomata",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "hl6h2T6ABGY=",
